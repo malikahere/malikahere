@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 [![malikahere's GitHub | Stats](https://stats.quine.sh/malikahere/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=malikahere)
 
+[![malikahere's GitHub | Topics Over Time](https://stats.quine.sh/malikahere/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=malikahere)
+
